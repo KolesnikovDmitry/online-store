@@ -1,4 +1,5 @@
 <?php
 defined('VG_ACCESS') or die('Access denied');
 
-echo "hello";
+const SITE_URL = 'http://online-store';
+
